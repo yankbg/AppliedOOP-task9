@@ -1,9 +1,8 @@
 package Manage;
 
-import exchange.exchangerate;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
+import exchange.exchangerate;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CurrencyConverterTest {
