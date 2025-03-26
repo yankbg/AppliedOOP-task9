@@ -22,6 +22,17 @@
         <dependencies>
 
             <dependency>
+                <groupId>com.yourgroup</groupId>
+                <artifactId>conversionLogic</artifactId>
+                <version>1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.yourgroup</groupId>
+                <artifactId>Manage-exchange</artifactId>
+                <version>1.0</version>
+            </dependency>
+
+            <dependency>
                 <groupId>org.junit.jupiter</groupId>
                 <artifactId>junit-jupiter-api</artifactId>
                 <version>5.13.0-M1</version>
